@@ -1,0 +1,56 @@
+<view catchtap="tap_e9dceb08" class="c-minheight wx-view_K41YqC" data-c_act_id="M_4c37d31b4237b2c2" data-c_e_id="wx_view_b64b0f65">
+    <text class="c-block wx-text_8tQzXC" data-c_e_id="wx_text_de355f03">2017年第一学期</text>
+    <image class="wx-image_AT0e9k" data-c_e_id="wx_image_499b913f" mode="scaleToFill" src="http://qty83k.creatby.com/materials/origin/176737df23ec529988bb5c8af9bfb283_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/176737df23ec529988bb5c8af9bfb283_origin.png); "/>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_DtP0sJ {{wx_scroll_view_ea788954.class}}" data-c_e_id="wx_scroll_view_ea788954" lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="50">
+    <text catchtap="tap_c92397da" class="c-block wx-text_gDQyA0" data-c_e_id="wx_text_59a91e7a">2017年第一学期</text>
+    <text catchtap="tap_85f9ff3f" class="c-block wx-text_gDQyA0" data-c_e_id="wx_text898eec8f">2017年第一学期</text>
+    <text catchtap="tap_f3b31e0c" class="c-block wx-text_gDQyA0" data-c_e_id="wx_textd7bc7379">2017年第一学期</text>
+</scroll-view>
+<view class="c-minheight wx-view_teNUXc" data-c_e_id="wx_view_640dc8ec">
+    <text class="c-block wx-text_JOHozw" data-c_e_id="wx_text_c54796b9">科目</text>
+    <text class="c-block wx-text_yRFZPl" data-c_e_id="wx_text_44f33765">成绩</text>
+    <text class="c-block wx-text_FFz7QC" data-c_e_id="wx_text_4732262d">学分</text>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_OoXEZf" data-c_e_id="wx_scroll_view_a373c6f3" lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="50">
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_viewc5719de7">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text33cdffa2">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text369e3c87">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_text587a6cdb">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_view1dc46b44">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text60b4d560">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text37dcf3de">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_text0908b1a5">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_view3482dcb1">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text535ae943">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text2f35875b">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_texte588a19d">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_viewc5ac686a">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text0444c958">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text2797a51d">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_texta18d6eba">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_view7e6920d6">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_textd5588f58">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_textc82b834e">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_text41a51f3a">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_viewf1df5bf0">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text53130fd0">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text9fb09087">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_texte62f2b4f">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_view2bd4afdc">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text9d2172f4">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_text037fd32a">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_textc034c3c8">2</text>
+    </view>
+    <view class="c-minheight wx-view_ECkL4O" data-c_e_id="wx_view65265a89">
+        <text class="c-block wx-text_tBHgI5" data-c_e_id="wx_text258578e7">高数</text>
+        <text class="c-block wx-text_epfut7" data-c_e_id="wx_textb830c55d">80</text>
+        <text class="c-block wx-text_KOfqGL" data-c_e_id="wx_texta7b5bda4">2</text>
+    </view>
+</scroll-view>

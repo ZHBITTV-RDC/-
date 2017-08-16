@@ -1,0 +1,20 @@
+<view class="wx-view_IfJZkK" data-c_e_id="wx_view_6df67227">
+    <view class="wx-view_u7aIQl" data-c_e_id="wx_viewe6eb0604">
+        <image class="wx-image_SC1alK" data-c_e_id="wx_imageb4843f3b" mode="aspectFill" src="http://qty83k.creatby.com/materials/origin/55094fcca96f38445d849602add837a7_origin.jpg" style="background-size: cover; background-position: center center; background-repeat: no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/55094fcca96f38445d849602add837a7_origin.jpg); "/>
+        <view class="wx-view_3ggkNG" data-c_e_id="wx_view176871e8">
+            <text class="c-block wx-text_yvWBsn" data-c_e_id="wx_text3e7862f8">Alice</text>
+            <text class="c-block wx-text_yvWBsn2" data-c_e_id="wx_texte70834a0">From Shanghai</text>
+        </view>
+    </view>
+</view>
+<navigator class="wx-navigator_o7Pcux" data-c_e_id="wx_navigator_4509f3a9" hover-class="navigator-hover" open-type="redirect"/>
+<navigator catchtap="tap_08eb3f58" class="wx-navigator_Sr9KNE" data-c_act_id="M_6695ea8adb93ac92" data-c_e_id="wx_navigator03f4351e" hover-class="navigator-hover">
+    <view catchtap="tap_7b21a852" class="wx-view_IGoT1K" data-c_act_id="M_abfdf90146411cdb" data-c_e_id="wx_viewf8674241">
+        <image class="wx-image_5jD4Rp" data-c_e_id="wx_image77d120d1" mode="scaleToFill" src="http://qty83k.creatby.com/materials/origin/6abe9a3017c46d6b40da29a4dd503d59_origin.png" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/6abe9a3017c46d6b40da29a4dd503d59_origin.png); "/>
+        <view class="wx-view_rqkHVb" data-c_e_id="wx_viewf9976347">
+            <text class="c-block wx-text_w0RU50" data-c_e_id="wx_textb3bd1921">绑定</text>
+            <text class="c-block wx-text_zHpbmX" data-c_e_id="wx_text122f7466">绑定教务以查看成绩等</text>
+        </view>
+    </view>
+    <text class="c-block wx-text_AgHv9w" data-c_e_id="wx_textf9816f3c">❯</text>
+</navigator>

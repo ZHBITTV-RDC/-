@@ -1,0 +1,65 @@
+<view class="c-minheight wx-view_2AdFM2" data-c_e_id="wx_view_f5a92f33">
+    <text  catchtap="tap_c39311b7" class="c-block wx-text_Zvdve2 {{wx_text_bc3f9bac.class}}" data-c_act_id="M_faf2c494440c9bb1" data-c_e_id="wx_text_bc3f9bac" >海贝TV  
+        HAIBEI</text>
+    <image class="wx-image_9wWkDy" data-c_e_id="wx_image_d84c77c0" mode="scaleToFill" src="http://qty83k.creatby.com/materials/origin/b78fc42b0275f5845f3ccf9f14abb8d4_origin.jpg" style="background-size:  100% 100%; background-position:  0% 0%; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/b78fc42b0275f5845f3ccf9f14abb8d4_origin.jpg); "/>
+</view>
+<navigator class="wx-navigator_JBV5If" data-c_e_id="wx_navigator_fffd7ec2" hover-class="navigator-hover"/>
+<view class="classifyiconWrap" data-c_e_id="wx_view687aaf2e">
+    <view class="classifyicongrid" data-c_e_id="wx_view1ae8f9cf">
+        <navigator catchtap="tap_8e52d768" class="wx-navigator_JBV5If" data-c_act_id="M_48aa18ffb3db9780" data-c_e_id="wx_navigator88b01255" hover-class="navigator-hover">
+            <image class="wx-image_9GbZXI" data-c_e_id="wx_image_9d6e31b5" mode="aspectFit" src="http://qty83k.creatby.com/materials/origin/1f9df6e0a144d1f135fb799c606b0393_origin.png" style="background-image: url(http://qty83k.creatby.com/materials/origin/1f9df6e0a144d1f135fb799c606b0393_origin.png); background-size:   contain; background-position:   center center; background-repeat:   no-repeat; "/>
+            <text class="wx-text_DGqVdA" data-c_e_id="wx_text_bcfc95a8">成绩</text>
+        </navigator>
+        <navigator catchtap="tap_98e4cd52" class="wx-navigator_JBV5If" data-c_act_id="M_38ed565b9616b1bf" data-c_e_id="wx_navigator3f11737a" hover-class="navigator-hover">
+            <image class="wx-image_9GbZXI" data-c_e_id="wx_imagec8f62f66" src="http://qty83k.creatby.com/materials/origin/040d99b671f43e2a37b02db62b714f5b_origin.png" style="background-size:          100% 100%; background-position:          0% 0%; background-repeat:          no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/040d99b671f43e2a37b02db62b714f5b_origin.png); "/>
+            <text class="wx-text_DGqVdA" data-c_e_id="wx_text9c2a525a">地图</text>
+        </navigator>
+        <navigator catchtap="tap_1bb5bc49" class="wx-navigator_JBV5If" data-c_act_id="M_88d790f4c0997bf2" data-c_e_id="wx_navigator6a497cba" hover-class="navigator-hover">
+            <image class="wx-image_9GbZXI" data-c_e_id="wx_imagec5f84a9f" src="http://qty83k.creatby.com/materials/origin/442dc18d9e2eb70abdeab382db5cfb54_origin.png" style="background-size:      100% 100%; background-position:      0% 0%; background-repeat:      no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/442dc18d9e2eb70abdeab382db5cfb54_origin.png); "/>
+            <text class="wx-text_DGqVdA" data-c_e_id="wx_text983d495a">校历</text>
+        </navigator>
+        <navigator catchtap="tap_c50e92da" class="wx-navigator_JBV5If" data-c_act_id="M_af6babae4fe0ed82" data-c_e_id="wx_navigator39f6c5d0" hover-class="navigator-hover">
+            <image class="wx-image_9GbZXI" data-c_e_id="wx_image7867bf70" src="http://qty83k.creatby.com/materials/origin/c28ca7a93d8a7d2ca287dbaec4a19fd5_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/c28ca7a93d8a7d2ca287dbaec4a19fd5_origin.png); "/>
+            <text class="wx-text_DGqVdA" data-c_e_id="wx_textd8b64938">讲座</text>
+        </navigator>
+        <navigator catchtap="tap_264a3e6f" class="wx-navigator_JBV5If" data-c_act_id="M_dadb1fef2815f5b1" data-c_e_id="wx_navigator258582ba" hover-class="navigator-hover">
+            <image class="wx-image_9GbZXI" data-c_e_id="wx_image14a432af" src="http://qty83k.creatby.com/materials/origin/19eed35787bf93b6f5acdc521a838531_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/19eed35787bf93b6f5acdc521a838531_origin.png); "/>
+            <text class="wx-text_DGqVdA" data-c_e_id="wx_textfcb3869e">考试</text>
+        </navigator>
+        <navigator class="wx-navigator_JBV5If" data-c_e_id="wx_navigator0c98fb33" hover-class="navigator-hover"/>
+    </view>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_VGBKLk" data-c_e_id="wx_scroll_view_5b9e4705" lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="61">
+    <view class="PanellistWrap" data-c_e_id="wx_view964f0a2d">
+        <view class="_other_text_LxtT2c" data-c_e_id="_other_text_d25ea969">
+            ————  海 贝 栏 目  ————
+        </view>
+        <navigator class="bottomGrayboder Panellistitem" data-c_e_id="wx_navigator_af86d451" hover-class="navigator-hover" url="../detail/detail">
+            <view class="wx-view_zjJ9We" data-c_e_id="wx_view8414e2c3">
+                <image class="wx-image_SidGqw" data-c_e_id="wx_image_7d20755b" mode="aspectFill" src="http://qty83k.creatby.com/materials/origin/43fccbeb955027a913c86b071bb721c6_origin.jpg" style="background-size:  cover; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/43fccbeb955027a913c86b071bb721c6_origin.jpg); "/>
+            </view>
+            <view class="c-minheight wx-view_WUvt7O" data-c_e_id="wx_viewa978d21e">
+                <text class="wx-text_JkhshF" data-c_e_id="wx_text5a660962">【i海贝】明年最时髦的 30 个包袋品牌</text>
+                <text class="wx-text_3YNNM3" data-c_e_id="wx_text23eac020">对不少姑娘来说，「包」治百病，如果有什么是一个包不能解决的，那就再买一个。F盘点了2017年春夏时装周上能够时髦到明年的...</text>
+            </view>
+        </navigator>
+        <navigator class="bottomGrayboder Panellistitem" data-c_e_id="wx_navigatorb0e64949" hover-class="navigator-hover" url="../detail/detail">
+            <view class="wx-view_zjJ9We" data-c_e_id="wx_view9fc818d0">
+                <image class="wx-image_SidGqw" data-c_e_id="wx_imageebc3df5f" mode="aspectFill" src="http://qty83k.creatby.com/materials/origin/2d263b91afeb7470a5c7bb05a445909a_origin.jpg" style="background-size:   cover; background-position:   center center; background-repeat:   no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/2d263b91afeb7470a5c7bb05a445909a_origin.jpg); "/>
+            </view>
+            <view class="c-minheight wx-view_WUvt7O" data-c_e_id="wx_view2cb8a6f5">
+                <text class="wx-text_JkhshF" data-c_e_id="wx_textfe2f7b86">秋季购衣指南，Shoes to buy</text>
+                <text class="wx-text_3YNNM3" data-c_e_id="wx_text8210df09">已经有了全套装备的你现在一定需要一双最最时髦的鞋来撑起你整个秋季Look。鞋是最能体现生活态度的，精致优雅或是简单随性，...</text>
+            </view>
+        </navigator>
+        <navigator class="bottomGrayboder Panellistitem" data-c_e_id="wx_navigator41a70666" hover-class="navigator-hover" url="../detail/detail">
+            <view class="wx-view_zjJ9We" data-c_e_id="wx_viewc136d046">
+                <image class="wx-image_SidGqw" data-c_e_id="wx_imageb3892c49" mode="aspectFill" src="http://qty83k.creatby.com/materials/origin/d08614c9cc1bd8e75c2dd0f03d761217_origin.jpg" style="background-size:  cover; background-position:  center center; background-repeat:  no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/d08614c9cc1bd8e75c2dd0f03d761217_origin.jpg); "/>
+            </view>
+            <view class="c-minheight wx-view_WUvt7O" data-c_e_id="wx_view05e9b708">
+                <text class="wx-text_JkhshF" data-c_e_id="wx_text7ce6bb0a">提升穿衣品味的 level，全靠这些细节了</text>
+                <text class="wx-text_3YNNM3" data-c_e_id="wx_textb1611b84">衣服换来换去，总有换腻的那一天。如何让老旧的衣服穿出新的感觉，你可以像他们一样在配饰上多下功夫。不经意在细节处的流露总是...</text>
+            </view>
+        </navigator>
+    </view>
+</scroll-view>

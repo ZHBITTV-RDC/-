@@ -1,0 +1,13 @@
+<view class="c-minheight wx-view_AxnNPk" data-c_e_id="wx_view_e08ab22e"/>
+<form class="c-minheight wx-form_SF6GDk" data-c_e_id="wx_form_da4cadb7">
+    <view class="c-minheight wx-view_Iq9Kl4" data-c_e_id="wx_view_1a049283">
+        <input class="c-block c-fullwidth wx-input_KkCxkJ" data-c_e_id="wx_input_acc3e6ee" name="input1" placeholder="姓名:" type="text"/>
+        <input class="c-block c-fullwidth wx-input_KkCxkJ" data-c_e_id="wx_inputf68b4309" name="input1" placeholder="学号:" type="number"/>
+        <input class="c-block c-fullwidth wx-input_KkCxkJ" data-c_e_id="wx_input5b34c504" name="input1" placeholder="教务密码:" type="text"/>
+    </view>
+    <view class="c-minheight wx-view_Zk91WQ" data-c_e_id="wx_view_7b171dd3">
+        <button catchtap="tap_0eeaa862" class="wx-button_foQxSW" data-c_act_id="M_ecd5f280c3202828" data-c_e_id="wx_button_18d0b6e9" formType="submit" hover-class="button-hover" size="default" type="default">
+            提交
+        </button>
+    </view>
+</form>

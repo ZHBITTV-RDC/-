@@ -1,0 +1,33 @@
+<view class="c-minheight wx-view_Z5Ey5M" data-c_e_id="wx_view_ccc6a43b">
+    <text class="c-block wx-text_l6mxyI" data-c_e_id="wx_text_d78f20e1">您近期共有五场考试</text>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_I6i2ee" data-c_e_id="wx_scroll_view_3002ad45" lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="50">
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view_41e6dc0a">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view_f95254a1">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text_00e25920">考试科目：高数</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_text_63f36d55">考试地点:明德楼</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text_3b979059">考试时间：11月22日~15.30 — 17.30</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view2890ccff">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view1c2387e1">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_texte843db24">考试科目：高数</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_texte80f3e2b">考试地点:明德楼</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text45d3d56e">考试时间：11月22日~15.30 — 17.30</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view51020a92">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view4ccea28d">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text87dd1cee">考试科目：高数</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_text37ee1824">考试地点:明德楼</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_texta93ba144">考试时间：11月22日~15.30 — 17.30</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view7a625f6a">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_vieweb45994b">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_texta8c86505">考试科目：高数</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_textd76c8967">考试地点:明德楼</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text21362148">考试时间：11月22日~15.30 — 17.30</text>
+        </view>
+    </view>
+</scroll-view>

@@ -1,0 +1,47 @@
+<view class="c-minheight wx-view_Z5Ey5M" data-c_e_id="wx_view_ccc6a43b">
+    <text class="c-block wx-text_l6mxyI" data-c_e_id="wx_text_d78f20e1">您共听过八场讲座</text>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_I6i2ee" data-c_e_id="wx_scroll_view_3002ad45" lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="50">
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view_41e6dc0a">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view_f95254a1">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text_00e25920">讲座名称：《未来社会的发展》</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_text_63f36d55">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text_3b979059">时间：2017/11/11</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view7dea3bb9">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view5bf79023">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text3de39169">讲座名称：未来社会的发展</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_text97ab8ccf">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text5a41bcc4">时间：2017/11/11</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_viewae3bae66">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view94ac95b5">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text37f47ffb">讲座名称：未来社会的发展</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_textd1c5f238">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text356a42bb">时间：2017/11/11</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_viewc219c0ee">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view7082e68b">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_text55b1128f">讲座名称：未来社会的发展</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_texta92bb5ca">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_textf9afda03">时间：2017/11/11</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_viewd1c14b06">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_viewb1332501">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_textc25a7bcd">讲座名称：未来社会的发展</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_textf46fd2a2">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_texte4e8835e">时间：2017/11/11</text>
+        </view>
+    </view>
+    <view class="c-minheight wx-view_movilelist_item" data-c_e_id="wx_view4c6640ec">
+        <view class="c-minheight wx-view_6zMKSh" data-c_e_id="wx_view2cc59e06">
+            <text class="c-block wx-image_movielist_item_title" data-c_e_id="wx_textd0da426f">讲座名称：未来社会的发展</text>
+            <text class="c-block wx-image_movielist_item_director" data-c_e_id="wx_text917c205f">主讲人：刘露</text>
+            <text class="c-block wx-image_movielist_item_actors" data-c_e_id="wx_text1ba984c8">时间：2017/11/11</text>
+        </view>
+    </view>
+</scroll-view>

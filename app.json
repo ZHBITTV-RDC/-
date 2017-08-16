@@ -1,0 +1,50 @@
+{
+  "debug": true, 
+  "window": {
+    "navigationBarTextStyle": "white", 
+    "navigationBarBackgroundColor": "#0a2e53", 
+    "navigationBarTitleText": "\u6d77   \u8d1d   T   V", 
+    "backgroundColor": "#ffffff", 
+    "enablePullDownRefresh": true, 
+    "backgroundTextStyle": "dark"
+  }, 
+  "pages": [
+    "page/index/index", 
+    "page/page1/page1", 
+    "page/page2/page2", 
+    "page/page9/page9", 
+    "page/page3/page3", 
+    "page/page4/page4", 
+    "page/page5/page5", 
+    "page/page7/page7", 
+    "page/page8/page8", 
+    "page/page6/page6"
+  ], 
+  "tabBar": {
+    "color": "#7F8389", 
+    "selectedColor": "#212121", 
+    "list": [
+      {
+        "text": "\u9996\u9875", 
+        "pagePath": "page/index/index", 
+        "iconPath": "resources/c6c7240c9502749f8d402e47faeb0cf7.png", 
+        "selectedIconPath": "resources/18f0b177b60322fec37ad4a980c2b197.png"
+      }, 
+      {
+        "text": "\u6211", 
+        "pagePath": "page/page5/page5", 
+        "iconPath": "resources/ace67d51927ed3502e1b34b20b5ee5b6.png", 
+        "selectedIconPath": "resources/1a3fec370f4e7f1f4f1191e42cbe9f5b.png"
+      }
+    ], 
+    "backgroundColor": "#F7F7FA", 
+    "position": "bottom", 
+    "borderStyle": "white"
+  }, 
+  "networkTimeout": {
+    "connectSocket": "", 
+    "request": "", 
+    "downloadFile": "", 
+    "uploadFile": ""
+  }
+}
