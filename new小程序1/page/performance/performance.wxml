@@ -1,0 +1,16 @@
+<view catchtap="tap_e9dceb08" class="c-minheight wx-view_K41YqC"  >
+<picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <text class="c-block wx-text_8tQzXC" >学期:{{array[index]}}</text>
+    <image class="wx-image_AT0e9k"  mode="scaleToFill" src="http://qty83k.creatby.com/materials/origin/176737df23ec529988bb5c8af9bfb283_origin.png" style="background-size:    100% 100%; background-position:    0% 0%; background-repeat:    no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/176737df23ec529988bb5c8af9bfb283_origin.png); "/>
+    </picker>
+</view>
+<scroll-view class="c-minheight wx-scroll-view_I6i2ee"  lower-threshold="50" scroll-y="True" style="overflow-x: hidden; overflow-y: auto;" upper-threshold="50">
+    <view class="c-minheight wx-view_movilelist_item" >
+        <view class="c-minheight wx-view_6zMKSh" >
+            <text class="c-block wx-image_movielist_item_title" >科目名称：高等数学（A2）</text>
+           <text class="c-block wx-image_movielist_item_title" >分数：82</text>
+           <text class="c-block wx-image_movielist_item_title" >学分：2</text>
+           <text class="c-block wx-image_movielist_item_actors" >考试时间：11月22日~15.30 — 17.30</text>
+        </view>
+    </view>
+</scroll-view>

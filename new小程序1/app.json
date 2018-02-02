@@ -1,0 +1,49 @@
+{
+  "debug": true, 
+  "window": {
+    "navigationBarTextStyle": "white", 
+    "navigationBarBackgroundColor": "#0a2e53", 
+    "navigationBarTitleText": "\u6d77   \u8d1d   T   V", 
+    "backgroundColor": "#ffffff", 
+    "enablePullDownRefresh": true, 
+    "backgroundTextStyle": "dark"
+  }, 
+  "pages": [
+    "page/index/index", 
+    "page/performance/performance", 
+    "page/schoolmap/schoolmap", 
+    "page/schoolcalendar/schoolcalendar", 
+    "page/chair/chair", 
+    "page/exam/exam", 
+    "page/me/me", 
+    "page/infoform/infoform", 
+    "page/class/class"
+  ], 
+  "tabBar": {
+    "color": "#7F8389", 
+    "selectedColor": "#212121", 
+    "list": [
+      {
+        "text": "\u9996\u9875", 
+        "pagePath": "page/index/index", 
+        "iconPath": "resources/688bb5484248632ea1d59d5a19692724.png", 
+        "selectedIconPath": "resources/448e1651ff183fe99fa91dbc82f643df.png"
+      }, 
+      {
+        "text": "\u6211", 
+        "pagePath": "page/me/me", 
+        "iconPath": "resources/a40a653ad5635a10bc4956340071f606.png", 
+        "selectedIconPath": "resources/eb3205402060e44342d504676f8acb64.png"
+      }
+    ], 
+    "backgroundColor": "#F7F7FA", 
+    "position": "bottom", 
+    "borderStyle": "white"
+  }, 
+  "networkTimeout": {
+    "connectSocket": "", 
+    "request": "", 
+    "downloadFile": "", 
+    "uploadFile": ""
+  }
+}

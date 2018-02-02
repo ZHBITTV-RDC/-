@@ -1,0 +1,13 @@
+<view class="c-minheight wx-view_AxnNPk" />
+<form class="c-minheight wx-form_SF6GDk" >
+    <view class="c-minheight wx-view_Iq9Kl4" >
+        <input class="c-block c-fullwidth wx-input_KkCxkJ"  name="input1" placeholder="姓名:" type="text"/>
+        <input class="c-block c-fullwidth wx-input_KkCxkJ"  name="input1" placeholder="学号:" type="number"/>
+        <input class="c-block c-fullwidth wx-input_KkCxkJ"  name="input1" placeholder="教务密码:" type="text"/>
+    </view>
+    <view class="c-minheight wx-view_Zk91WQ" >
+        <button catchtap="tap_0eeaa862" class="wx-button_foQxSW"   formType="submit" hover-class="button-hover" size="default" type="default">
+            提交
+        </button>
+    </view>
+</form>
